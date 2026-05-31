@@ -111,3 +111,6 @@ En sélectionnant le point temporel de **Décembre** sur la courbe de tendance, 
 *   **Data Preparation & ETL :** Nettoyage et transformation de tables de données avec Power Query.
 *   **Data Modeling & DAX :** Écriture de mesures de calculs optimisées.
 *   **Data Visualization & UX :** Conception d'interfaces analytiques interactives et respect d'une charte graphique d'entreprise.
+
+## 👤 Auteur
+- **Clément Faure** - Mon LinkedIn : (https://www.linkedin.com/in/cl%C3%A9ment-faure-218713393/)
