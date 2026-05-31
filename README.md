@@ -10,8 +10,8 @@ Le projet démarre à partir d'un fichier Microsoft Excel (`Financial Sample`) c
 
 <table>
   <tr>
-    <td><img src="Images_Readme/excel-01.jpg" width="100%" alt="Haut du fichier Excel"/></td>
-    <td><img src="Images_Readme/excel-02.jpg" width="100%" alt="Bas du fichier Excel"/></td>
+    <td><img src="Images_Readme/excel-01.png" width="100%" alt="Haut du fichier Excel"/></td>
+    <td><img src="Images_Readme/excel-02.png" width="100%" alt="Bas du fichier Excel"/></td>
   </tr>
 </table>
 
