@@ -1,7 +1,7 @@
 # 📈 Analyse de Performance Financière — Power BI
 
 ## 🎯 Présentation du Projet
-Ce projet consiste en la création d'un **Tableau de Bord Décisionnel (Dashboard)** complet, interactif et hautement stylisé sous **Power BI Desktop**. L'objectif est de transformer un jeu de données financières brut et volumineux en un outil visuel d'aide à la décision, permettant d'évaluer la rentabilité d'une entreprise par pays, par produit et dans le temps.
+Ce projet consiste en la création d'un **Tableau de Bord Décisionnel (Dashboard)** complet, interactif sous **Power BI Desktop**. L'objectif est de transformer un jeu de données financières brut et volumineux en un outil visuel d'aide à la décision, permettant d'évaluer la rentabilité d'une entreprise par pays, par produit et dans le temps.
 
 ---
 
@@ -70,10 +70,10 @@ Le déploiement des visuels s'est fait de manière incrémentale, en passant d'u
 ---
 
 ## 🎨 5. Charte Graphique & Rendu Final (UI/UX)
-L'interface a été entièrement retravaillée pour adopter une identity visuelle **"Corporate / Banque d'affaires"** épurée et moderne, s'éloignant des thèmes natifs basiques :
-*   **Harmonie colorimétrique :** Utilisation d'un bleu marine profond pour les graphiques de structure et d'un bleu-gris estompé pour créer une hiérarchie visuelle.
+L'interface a été entièrement retravaillée pour essayer adopter une identée visuelle épurée et moderne :
+*   **Harmonie colorimétrique :** Utilisation d'un bleu marine profond pour les graphiques de structure et d'un bleu-gris pour créer une hiérarchie visuelle.
 *   **Effet de relief (UI moderne) :** Ajout de bordures douces et d'ombres portées légères (*Shadows*) sous les cartes de KPI pour un effet de cartes flottantes.
-*   **Épuration des axes :** Suppression des axes chiffrés redondants au profit d'**Étiquettes de données (Data Labels)** directes, simplifiant la lecture instantanée.
+*   **Épuration des axes :** Suppression des axes chiffrés redondants au profit d'**Étiquettes de données ** directes, simplifiant la lecture instantanée.
 
 <table>
   <tr>
